@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584523565490.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C6FEBB5D",
+    "lastKnownWriteTime" : 1583670697,
+    "last_content_update" : 1583670697,
+    "path" : "U:/TxDashboard/dq_hzi_course_II/01-intro.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "49,42",
+        "scrollLine" : "32"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
