@@ -28,7 +28,6 @@ We calculated a decrease of reporting delay, from a median delay of ten days in 
 ### Interpretation
 As a specific use case this tool may be of particular value for the challenging risk assessment and risk communication in the context of the Summer Olympic Games in Japan 2020 and similar situations elsewhere.
 
-Inline-style: 
 ```{r}
-knitr::include_graphics(here::here("figures", "readme_nowcast.PNG"))
+knitr::include_graphics("figures/readme_nowcast.PNG")
 ```

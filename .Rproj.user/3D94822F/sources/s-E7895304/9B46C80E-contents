@@ -46,5 +46,4 @@ As a specific use case this tool may be of particular value for the
 challenging risk assessment and risk communication in the context of the
 Summer Olympic Games in Japan 2020 and similar situations elsewhere.
 
-Inline-style:
-<img src="U:/TxDashboard/nowcasting_covid19_japan/figures/readme_nowcast.PNG" width="1564" />
+<img src="figures/readme_nowcast.PNG" width="1564" />
