@@ -2,11 +2,13 @@ Now-casting the COVID-19 epidemic: The use case of Japan, March 2020
 ================
 Stephan Glöckner (<Stephan.Gloeckner@helmholtz-hzi.de>), Gérard Krause
 (<Gerard.Krause@helmholtz-hzi.de>) , Michael Höhle (<hoehle@math.su.se>)
-18 March, 2020
+23 March, 2020
 
 This is the github repository for the paper: Glöckner, Krause & Höhle
 (“2020).”Now-casting the COVID-19 epidemic: The use case of Japan,
-March 2020".
+March 2020". medRxiv 2020.03.18.20037473; doi:
+<https://doi.org/10.1101/2020.03.18.20037473>
+[Link](https://www.medrxiv.org/content/10.1101/2020.03.18.20037473v1)
 
 Code and Data can be found in this repository.
 
